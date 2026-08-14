@@ -1,6 +1,6 @@
 cask "winmice" do
   version "1.0.0"
-  sha256 "b18d2c851064ba0f61019040b83e1e372138e4a270882361a48cc8a343a34fef"
+  sha256 "e73bd7491c2b86766e0cd290669d6fdce83451915b6a1e722d7b35b01b4a2797"
 
   url "https://github.com/anibalribeiro/WinMice/releases/download/v#{version}/WinMice-#{version}.dmg"
   name "WinMice"
